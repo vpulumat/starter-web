@@ -4,6 +4,7 @@
 # TEAM
 
     vamshi pulumati   vamshi@git.traiing @vamshipulumati
+    krishna kittu     kittu@git.training @kittukrshna
 
 # THANKS
 
