@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    vamshi pulumati   vamshi@git.traiing @vamshipulumati
 
 # THANKS
 
