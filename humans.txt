@@ -5,6 +5,7 @@
 
     vamshi pulumati   vamshi@git.traiing @vamshipulumati
     krishna kittu     kittu@git.training @kittukrshna
+    adding 3rd employee for stash onto merge practice
 
 # THANKS
 
